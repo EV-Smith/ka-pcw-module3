@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  color: #292930;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 1.5em;
+}
+
+ul.nav {
+    border: 1px solid #292930;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nav li {
+    font-size: 1em;
+    border: 1px solid #292930;
+    color: #292930;
+}
+
+.details {
+    font-weight: bold;
+}
+
+.cat-photo {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto 15px auto;
+}
+
+.cat-details {
+    padding: 10px 25px 20px 25px;
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+    margin-bottom: 25px;
+}
